@@ -1,2 +1,2 @@
-# NanoSockets-ClientServer
-Basic Unity 6 client-server setup using NanoSockets for lightweight UDP networking. Includes preconfigured Build Profiles for quick testing across client and server roles. Ideal starter for custom multiplayer networking.
+# NanoSockets Client-Server Example with Build Profiles
+This project demonstrates a basic client-server networking setup using NanoSockets in Unity 6. It includes lightweight, low-level UDP communication for high-performance network messaging and features separate client and server roles. The repo also includes pre-configured Unity Build Profiles for streamlined testing and building on multiple platforms. Ideal as a starting point for developers exploring custom transport layers or implementing real-time multiplayer systems in Unity without relying on heavier solutions like NGO or Mirror.
